@@ -1,13 +1,13 @@
 from setuptools import find_packages, setup
 
 setup(
-    name='YOUR-PROJECT',
+    name='burchbrew',
     version='0.1',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='YOUR_REPOSITORY',
-    author='YOUR NAME',
-    author_email='YOU@PROVIDER.com',
+    url='https://github.com/jonoburch/brewblox-boilerplate',
+    author='Jono',
+    author_email='jono.burch@gmail.com',
     classifiers=[
         'Development Status :: 4 - Beta',
         'License :: OSI Approved :: GNU General Public License (GPL)',
